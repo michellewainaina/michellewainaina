@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michelle Wainaina</h1>
 <h3 align="center">I am an Android Developer</h3>
 
+
 - 🔭 I’m currently working on **Mitch App**
 
 - 🌱 I’m currently learning **Kotlin and Jetpack Compose**
